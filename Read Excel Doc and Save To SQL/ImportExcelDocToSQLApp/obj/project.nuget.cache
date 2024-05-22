@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "2bR/Ja7Hg0fBk0hn72qH81CryA1hsjudJSjyLKEHRKaH1GRB+ynMH1MlBhp8FnUVJ/A4qRUvso/KxDKLp4X8oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Caissa.Net\\Tutorials\\assESSMENT\\Prescient\\Prescient Project\\ImportExcelDocToSQLApp\\ImportExcelDocToSQLApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w7037954\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\w7037954\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\w7037954\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\w7037954\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\w7037954\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\w7037954\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\w7037954\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\w7037954\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

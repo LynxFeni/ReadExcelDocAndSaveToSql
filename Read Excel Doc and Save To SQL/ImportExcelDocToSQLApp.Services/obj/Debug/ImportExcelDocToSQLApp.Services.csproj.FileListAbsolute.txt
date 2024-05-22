@@ -1,0 +1,15 @@
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\bin\Debug\ImportExcelDocToSQLApp.Services.dll
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\bin\Debug\ImportExcelDocToSQLApp.Services.pdb
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\bin\Debug\Dapper.dll
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\bin\Debug\System.Data.SqlClient.dll
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\obj\Debug\ImportExcelDocToSQLApp.Services.csproj.CoreCompileInputs.cache
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\obj\Debug\ImportExcelDocToSQLApp.Services.csproj.CopyComplete
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\obj\Debug\ImportExcelDocToSQLApp.Services.dll
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\obj\Debug\ImportExcelDocToSQLApp.Services.pdb
+C:\Caissa.Net\Tutorials\assESSMENT\Prescient\Prescient Project\ImportExcelDocToSQLApp.Services\obj\Debug\ImportExcelDocToSQLApp.Services.csproj.AssemblyReference.cache
